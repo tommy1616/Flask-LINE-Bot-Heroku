@@ -4,11 +4,11 @@
     "keywords": ["chatbot", "line", "python"],
     "env": {
         "CHANNEL_ACCESS_TOKEN": {
-            "description": "LINE bot Channel access token",
+            "description": "63pKpADMB6DwIjuE/6Wxx64AwDJHOmze+9yFNWXYGpFCpJOmWCruOTUd+uE/hyMRc9EQ8kdJcXH83RTJH0DqWk1kUTt2JU06EZO+06oh0+XqtA1xU7BJUCWepmtazcZ3inwSup5FOgmqBLjx2fmOfgdB04t89/1O/w1cDnyilFU=",
             "required":  true
         },
         "CHANNEL_SECRET": {
-            "description": "LINE bot Channel secret",
+            "description": "24660c9954d3dee77f44a7d2bbee5fd7",
             "required":  true
         }
     }
